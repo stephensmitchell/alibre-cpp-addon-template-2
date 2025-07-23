@@ -1,0 +1,108 @@
+<<<<<<< HEAD
+# ===========================================
+# Visual Studio C++ Project Gitignore
+# ===========================================
+
+## Visual Studio Cache and Temp Files ##
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+cleanup-git-repo.ps1
+## Build Results ##
+[Oo]bj/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+ARM/
+ARM64/
+DXSampleAddOn.txt
+cleanup-git-repo.ps1
+## Compiled Object Files ##
+*.obj
+*.o
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.res
+*.aps
+*.log
+*.tlog
+*.lastbuildstate
+*.ipch
+*.iobj
+*.ipdb
+*.resw
+*.sdf
+*.opensdf
+
+## Generated Files ##
+*.manifest
+*.generated.*
+
+## Installer Files ##
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.mst
+*.nupkg
+
+## CMake Files ##
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+## Miscellaneous ##
+*.tmp
+*.bak
+*.cache
+*.sbr
+*.bsc
+*.ilk
+*.vssscc
+*.vspscc
+*.ncb
+
+## IntelliSense Cache ##
+*.db
+*.opendb
+
+## Profiler Files ##
+*.psess
+*.vsp
+*.vspx
+
+## DotNet related (if applicable) ##
+*.application
+*.publish
+*.pubxml
+*.nupkg
+publish/
+
+## Visual Studio Code ##
+.vscode/
+
+## Others ##
+_ReSharper*/
+*.DotSettings.user
+*.DotSettings
+Debug/
+=======
+Debug/
+.vs/
+*.pch
+*.ipch
+>>>>>>> d159e0d061b533bf1787e39e45dc86551d93c3eb
